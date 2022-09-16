@@ -1,0 +1,10 @@
+main: me.foxyg3n.iridiumdungeons.IridiumDungeons
+name: IridiumDungeons
+softdepend: [ VoidGen, Multiverse-Core, MythicMobs, Skript ]
+depend: [ IridiumSkyblock, ModelEngine ]
+version: 1.0
+api-version: 1.18
+
+commands:
+  setresourcepack:
+    description: "Sets the resourcepack for the server"
